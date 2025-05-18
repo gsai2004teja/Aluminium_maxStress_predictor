@@ -1,0 +1,1 @@
+this project predicts the maximum stress generated in Aluminium circular plate based on its thickness, this model uses RandomForest which gave accuracy of 89%, similarly i have also trained using gradient boosting which gave accuracy of 91%
